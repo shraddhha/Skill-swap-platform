@@ -27,13 +27,14 @@ bun install
 
 
 
-## To run locally
+ To run locally
 
 
 npm run dev
-# or
+ or
 bun run dev
 
+--
 
 <img width="1913" height="924" alt="Screenshot 2025-07-12 170231" src="https://github.com/user-attachments/assets/f908add0-dbe5-465a-a09b-7a9ccbb43c43" />
 
